@@ -6,6 +6,10 @@
 #include <fmt/core.h>
 #include "funciones.h"
 
+#define PI 3.1415
+#define AREA_CIRCULO(r) (PI * (r) * (r))
+
+
 using namespace std;
 using namespace fmt;
 
